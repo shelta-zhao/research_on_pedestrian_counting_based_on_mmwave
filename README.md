@@ -22,11 +22,11 @@ Research on Pedestrain Counting Based on Millimeter Wave
 #### 安装教程
 本项目的环境为：
 
-9.  系统：Win10操作系统 8G内存
-10.  IDE：Pycharm Community
-11.  python：3.8.12
-12.  pytorch：1.11
-13.  数据链接： [Google Drive](https://drive.google.com/file/d/1Pffh4tY6TkU9WW-IsesNasN4GnySoDNa/view)
+8.  系统：Win10操作系统 8G内存
+9.  IDE：Pycharm Community
+10.  python：3.8.12
+11.  pytorch：1.11
+12.  数据链接： [Google Drive](https://drive.google.com/file/d/1Pffh4tY6TkU9WW-IsesNasN4GnySoDNa/view)
 
 #### 系统流程
 
